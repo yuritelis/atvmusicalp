@@ -4,5 +4,7 @@ README do jogo feito com a ferramenta Unity para a matéria de Linguagem de Prog
 O jogo é 3D mas com a jogabilidade de um jogo de plataforma, onde se movimenta o personagem apenas para cima e para baixo. O jogo conta a história de um capitão que perdeu sua tripulação por causa
 ## MÚSICAS ESCOLHIDAS
 O Limbo do Menino Sem Olhos e Moby Dick, ambas do cantor Kamaitachi.
+## DOCUMENTAÇÃO E DIAGRAMA DE CASOS E DIAGRAMA DE CLASSES
+
 ## AUTORES
 Kauan Jesus e Yuri Telis.
