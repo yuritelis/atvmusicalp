@@ -5,6 +5,17 @@ O jogo é 3D mas com a jogabilidade de um jogo de plataforma, onde se movimenta 
 ## MÚSICAS ESCOLHIDAS
 O Limbo do Menino Sem Olhos e Moby Dick, ambas do cantor Kamaitachi.
 ## DOCUMENTAÇÃO E DIAGRAMA DE CASOS E DIAGRAMA DE CLASSES
+Diagrama de Casos de Uso
+<img src="img/usecasediagram.png">
+
+Diagrama de Classe
+<img src="img/classdiagram.png">
+
+Documentação do Caso de Uso
+<img src="img/usecase">
+
+Documentação do Diagrama de Classes
+<img src="img/class.png">
 
 ## AUTORES
 Kauan Jesus e Yuri Telis.
