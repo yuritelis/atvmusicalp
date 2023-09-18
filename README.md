@@ -85,9 +85,15 @@ Quanto à troca de cena, realizamos uma pesquisa sobre como fazê-la e optamos p
 
 Para obter mais informações sobre como realizar a troca de cena, clique neste [link](https://www.youtube.com/watch?v=9cVs70Wzzo8) de um vídeo que utilizamos como referência. para essa tarefa.
 
-## Link do Jogo(Compactado)<br>
+## Link do Jogo(Compactado) e dos Assets
+Jogo:
 https://drive.google.com/drive/folders/1zAcVHowSYLEl2dQfXSywRGQvgS540PoF?usp=drive_link
-
+Assets:
+https://assetstore.unity.com/packages/3d/characters/animals/fish/humpback-whale-3547
+https://assetstore.unity.com/packages/3d/props/exterior/rock-package-118182
+https://assetstore.unity.com/packages/tools/animation/water-float-164693
+https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy/pirate-customized-241220
+https://assetstore.unity.com/packages/3d/environments/historic/colonial-ship-70472
 
 ## AUTORES
 Kauan Jesus e Yuri Telis.
