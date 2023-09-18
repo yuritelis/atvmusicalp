@@ -85,8 +85,8 @@ Quanto à troca de cena, realizamos uma pesquisa sobre como fazê-la e optamos p
 
 Para obter mais informações sobre como realizar a troca de cena, clique neste [link](https://www.youtube.com/watch?v=9cVs70Wzzo8) de um vídeo que utilizamos como referência. para essa tarefa.
 
-## Link do Jogo<br>
-
+## Link do Jogo(Compactado)<br>
+https://drive.google.com/drive/folders/1zAcVHowSYLEl2dQfXSywRGQvgS540PoF?usp=drive_link
 
 
 ## AUTORES
