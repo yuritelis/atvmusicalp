@@ -87,13 +87,17 @@ Para obter mais informações sobre como realizar a troca de cena, clique neste 
 
 ## Link do Jogo(Compactado) e dos Assets
 Jogo:
-https://drive.google.com/drive/folders/1zAcVHowSYLEl2dQfXSywRGQvgS540PoF?usp=drive_link
-Assets:
-https://assetstore.unity.com/packages/3d/characters/animals/fish/humpback-whale-3547
-https://assetstore.unity.com/packages/3d/props/exterior/rock-package-118182
-https://assetstore.unity.com/packages/tools/animation/water-float-164693
-https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy/pirate-customized-241220
-https://assetstore.unity.com/packages/3d/environments/historic/colonial-ship-70472
+https://drive.google.com/drive/folders/1zAcVHowSYLEl2dQfXSywRGQvgS540PoF?usp=drive_link<br>
+O vídeo mostrando o jogo também está no Drive.
+
+
+
+Assets:<br>
+https://assetstore.unity.com/packages/3d/characters/animals/fish/humpback-whale-3547<br>
+https://assetstore.unity.com/packages/3d/props/exterior/rock-package-118182<br>
+https://assetstore.unity.com/packages/tools/animation/water-float-164693<br>
+https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy/pirate-customized-241220<br>
+https://assetstore.unity.com/packages/3d/environments/historic/colonial-ship-70472<br>
 
 ## AUTORES
 Kauan Jesus e Yuri Telis.
